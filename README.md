@@ -1,5 +1,5 @@
 <h1>🙌 Hello World!🌍</h1>
-<h2>👨‍💻👨‍ I'm Emmanuel, an Information Technology student. I like to solve problems creatively by writing codes.</h2>
+<h2>👨‍💻👨‍ I'm Emmanuel,I like to solve problems creatively by writing codes.</h2>
 <h3>
 Let's connect on
 
